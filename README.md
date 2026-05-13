@@ -2,6 +2,7 @@
 
 本仓库还包含一个基于 Nanobot 二次开发的 **Schema-driven Obsidian LLM Wiki Agent**：通过 `TheSchema.md`、Obsidian CLI、`VaultGuard`、Chroma RAG 和分层路由，为本地 Obsidian Markdown 知识库提供 Ingest、Query、Lint、Wiki 编译、向量检索、分层问答与自动评测能力。
 
+![关系图谱](picture/关系图谱.png)
 
 ## 核心特性
 
